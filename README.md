@@ -5,6 +5,8 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/pi-apps/qrcodepay.svg)](https://github.com/pi-apps/qrcodepay/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/pi-apps/qrcodepay.svg)](https://github.com/pi-apps/qrcodepay/pulls)
+[![Lint Code Base](https://github.com/KOSASIH/qrcodepay/actions/workflows/super-linter.yml/badge.svg)](https://github.com/KOSASIH/qrcodepay/actions/workflows/super-linter.yml)
+
 
 </div>
 
